@@ -6,11 +6,12 @@
    <UUID>1c9b0973-c66d-4a6a-a05b-47dcd83991de</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.3.2</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.3.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\ahmed\git\Katalon_nopCommerceProject\Katalon_nopCommerceProject.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

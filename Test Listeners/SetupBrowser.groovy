@@ -39,6 +39,6 @@ class SetupBrowser {
 	 */
 	@AfterTestSuite
 	def CloseBrowser(TestSuiteContext testSuiteContext) {
-		WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)();
+		WebUI.closeBrowser();
 	}
 }

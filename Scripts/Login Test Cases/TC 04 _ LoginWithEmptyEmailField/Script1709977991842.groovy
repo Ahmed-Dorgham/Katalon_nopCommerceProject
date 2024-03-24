@@ -18,7 +18,17 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //WebUI.callTestCase(findTestCase('Registeration Test Cases/TC 08 _ RegisterWithValidData'), null)
-
+try {
+	WebUI.verifyElementPresent(findTestObject('Object Repository/HomePageObjects/logout_link'),
+		GlobalVariable.verifyTimeOut, FailureHandling.STOP_ON_FAILURE)
+	
+	WebUI.click(findTestObject('Object Repository/HomePageObjects/logout_link'))
+	WebUI.verifyElementPresent(findTestObject('Object Repository/RegisterationPageObjects/login_link'),
+		GlobalVariable.verifyTimeOut, FailureHandling.STOP_ON_FAILURE)
+}
+catch (Exception e){
+	
+}
 WebUI.click(findTestObject('Object Repository/RegisterationPageObjects/login_link'))
 
 //WebUI.setText(findTestObject('Object Repository/LoginPageObjects/email_field'), invalidEmail)

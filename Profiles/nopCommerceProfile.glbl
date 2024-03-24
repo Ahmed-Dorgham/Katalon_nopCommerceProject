@@ -10,8 +10,8 @@
       <name>websiteLink</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
-      <initValue>'ahmed53@gmail.com'</initValue>
+      <description>should be changed when run test suite collection</description>
+      <initValue>'ahmed61@gmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -21,17 +21,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>20</initValue>
+      <initValue>5</initValue>
       <name>actionTimeOut</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>20</initValue>
+      <initValue>5</initValue>
       <name>verifyTimeOut</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>50</initValue>
+      <initValue>30</initValue>
       <name>waitTimeOut</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
