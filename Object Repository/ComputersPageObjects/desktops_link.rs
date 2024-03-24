@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>desktops_link</name>
+   <tag></tag>
+   <elementGuidId>0b83cfc4-dfad-420c-a48b-0ebb66d15755</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Desktops')])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Show products in category Desktops&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2c1ea378-6fe7-456a-bd77-b8efe1b3d61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/desktops</value>
+      <webElementGuid>ff829f49-e78b-4817-9f6b-6884151f5084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show products in category Desktops</value>
+      <webElementGuid>eb5a633e-e012-4acc-9db8-73b8bbed0d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Desktops </value>
+      <webElementGuid>269a66f2-57cc-4b63-b4d7-a005c519dba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-category-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-column-wrapper&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page category-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;category-grid sub-category-grid&quot;]/div[@class=&quot;item-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;sub-category-item&quot;]/h2[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>481ddbed-92f8-4630-8824-056f5cb14be2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Desktops')])[4]</value>
+      <webElementGuid>b3961af6-736d-4bc4-98d6-df2ee5a480c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computers'])[5]/following::a[1]</value>
+      <webElementGuid>311b1cc6-caba-41d1-9615-c3a1eb2ae916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[2]/following::a[1]</value>
+      <webElementGuid>4dfd40a1-fe40-4a8a-b5bb-66d230d2345d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notebooks'])[4]/preceding::a[2]</value>
+      <webElementGuid>d86224f0-36d6-461f-b4e8-76fca4c5a58d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software'])[4]/preceding::a[4]</value>
+      <webElementGuid>43504897-eb5b-4e3a-bfc2-a6f8b80d1c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/desktops')])[4]</value>
+      <webElementGuid>c9f49990-a2b9-47cb-b861-b7b3c0ca3075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>99544186-9606-4ac0-aea3-9b7a9bb268a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/desktops' and @title = 'Show products in category Desktops' and (text() = ' Desktops ' or . = ' Desktops ')]</value>
+      <webElementGuid>fc0cd377-2425-4598-81aa-43a11ee7ef0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

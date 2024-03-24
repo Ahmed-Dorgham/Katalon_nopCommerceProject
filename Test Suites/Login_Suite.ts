@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>271dfc67-4b17-43e7-a410-7e96909c89bf</testSuiteGuid>
+   <testCaseLink>
+      <guid>66eaa7c9-dfc6-4916-b7dc-f0077593be40</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Test Cases/TC 01 _ LoginWithValidData</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>127b8243-aa31-4f55-8775-d8716cf809b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Test Cases/TC 02 _ LoginWithInvalidEmail</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3ab8263a-c64e-48a8-9083-66d1cf095c5f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fafc33c3-a801-4cd5-a9ef-0c7f155d5e03</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Test Cases/TC 03 _ LoginWithInvalidPassword</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c76b3e8e-bb79-49fa-83f0-03332db6b033</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4b5ce3ea-6bbb-41f3-835b-7cb0fe523d67</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Test Cases/TC 04 _ LoginWithEmptyEmailField</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>83da3aad-2c12-41dd-a72d-4122e28b138c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>20aa8721-ee31-4c5d-8459-8afff7bde94d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Test Cases/TC 05 _ LoginWithEmptyPasswordField</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14478980-201c-4e03-bbd9-360dc4a0804f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

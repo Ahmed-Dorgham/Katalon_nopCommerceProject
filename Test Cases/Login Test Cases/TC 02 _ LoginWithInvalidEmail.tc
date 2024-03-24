@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02 _ LoginWithInvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29cbe610-17a0-421a-aa09-adf103cfecf4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ab8263a-c64e-48a8-9083-66d1cf095c5f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test54@gmail.com'</defaultValue>
+      <description></description>
+      <id>3ab8263a-c64e-48a8-9083-66d1cf095c5f</id>
+      <masked>false</masked>
+      <name>invalidEmail</name>
+   </variable>
+</TestCaseEntity>

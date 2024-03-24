@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 _ LoginWithEmptyEmailField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8bbcc48-c4c1-4fe4-9e12-e8becf38eb06</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83da3aad-2c12-41dd-a72d-4122e28b138c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test54@gmail.com'</defaultValue>
+      <description></description>
+      <id>83da3aad-2c12-41dd-a72d-4122e28b138c</id>
+      <masked>false</masked>
+      <name>invalidEmail</name>
+   </variable>
+</TestCaseEntity>

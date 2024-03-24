@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02 _ RegisterWithoutFirstname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a9c38bb-7728-42b8-ba82-5201026a5d2f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d952a1a-7fc5-4705-9b0c-d04b5307a65e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ace6bdb1-1955-4fad-a2c3-78a176a3d1f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ahmed'</defaultValue>
+      <description></description>
+      <id>7d952a1a-7fc5-4705-9b0c-d04b5307a65e</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'muhammed'</defaultValue>
+      <description></description>
+      <id>ace6bdb1-1955-4fad-a2c3-78a176a3d1f4</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+</TestCaseEntity>
